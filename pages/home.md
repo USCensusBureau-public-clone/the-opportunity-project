@@ -50,7 +50,7 @@ products:
     href:
       src: showcase/?search=floodplain+management
       isExternal: false
-  - title: Sidekick by MySidewalk
+  - title: Sidekick by mySidewalk
     blurb: An AI-powered data assistant that helps community leaders find, visualize, and share data to inform decisions and improve outcomes.
     img:
       src: /assets/img/home-page/products/desktop-products-mysidewalk.png
